@@ -1,0 +1,91 @@
+# COPYRIGHT NOTICE
+
+Portfolio Documentation Site (Portfolio-docs)
+Copyright © 2025 ColdByDefault. All rights reserved.
+
+# PROPRIETARY SOFTWARE AND DOCUMENTATION
+
+This repository contains technical documentation and generated references
+for the ColdByDefault Portfolio project. All content, including but not
+limited to:
+
+- Generated TypeDoc documentation
+- API reference materials
+- Code documentation and comments
+- Technical specifications
+- Implementation details
+- Architectural diagrams and descriptions
+
+is the exclusive property of ColdByDefault and is protected by copyright
+and other intellectual property laws.
+
+# UNDERLYING PORTFOLIO CODE
+
+The documentation contained herein references and describes proprietary
+source code from the main ColdByDefault Portfolio project, which includes:
+
+- Next.js 15.5.1 application code
+- React 19.1.1 components and hooks
+- TypeScript interfaces and type definitions
+- API route implementations
+- Service classes and utilities
+- Security middleware and systems
+- Database schemas and ORM configurations
+
+All such underlying code is proprietary and confidential.
+
+# PERMITTED USE
+
+This documentation is made publicly available for the following purposes:
+
+1. **Technical Reference**: For understanding the portfolio's capabilities
+2. **Educational Purposes**: For learning about modern web development practices
+3. **Professional Evaluation**: For assessing technical skills and implementation quality
+4. **Public Showcase**: As demonstration of engineering capabilities
+
+# RESTRICTIONS
+
+The following activities are strictly prohibited:
+
+- Copying, reproducing, or distributing any portion of the documented code
+- Using any implementation details for commercial purposes
+- Reverse engineering the portfolio application based on this documentation
+- Creating derivative works based on the documented systems
+- Extracting proprietary algorithms, designs, or business logic
+
+# THIRD-PARTY COMPONENTS
+
+This documentation may reference third-party libraries and frameworks,
+including but not limited to:
+
+- Next.js (Vercel, Inc.)
+- React (Meta Platforms, Inc.)
+- TypeScript (Microsoft Corporation)
+- Tailwind CSS (Tailwind Labs Inc.)
+- Various npm packages and their respective maintainers
+
+Such third-party components remain subject to their original licenses.
+
+# DISCLAIMER
+
+THE DOCUMENTATION IS PROVIDED "AS IS" WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
+CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
+TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
+DOCUMENTATION OR THE USE OR OTHER DEALINGS IN THE DOCUMENTATION.
+
+# CONTACT
+
+For licensing inquiries, permissions, or questions regarding this
+copyright notice, please contact:
+
+- Website: https://coldbydefault.com
+- Documentation: https://docs.coldbydefault.com
+- Repository: https://github.com/ColdByDefault/Portfolio-docs
+
+---
+
+Last Updated: September 25, 2025
+Version: 1.0
